@@ -1,0 +1,21 @@
+# Build tools and IDE
+target/
+.m2-local/
+.mvn-cache/
+.idea/
+*.iml
+out/
+.vscode/
+
+# Local profiles and logs
+/demo-save/
+*.log
+
+# Local coursework materials
+/AGENTS.md
+/PLAN.md
+/PRODUCT_ESTIMATE.md
+/REQUIREMENTS.md
+/*.pdf
+/*.docx
+/*.pptx
